@@ -1,7 +1,7 @@
----
+﻿---
 title: Practical Machine Learning Project - Quantified Self Movement Data Analysis
   Report
-author: "by Xiaodan (Sally) Zhang"
+author: "by Yumna Batool"
 output:
   html_document:
     fig_height: 9
