@@ -1,12 +1,49 @@
-﻿---
-title: Practical Machine Learning Project - Quantified Self Movement Data Analysis
-  Report
-author: "by Yumna Batool"
-output:
-  html_document:
-    fig_height: 9
-    fig_width: 9
----
+<table data-table-type="yaml-metadata">
+  <thead>
+  <tr>
+  <th>title</th>
+
+  <th>author</th>
+
+  <th>output</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>Practical Machine Learning Project - Quantified Self Movement Data Analysis Report</div></td>
+
+  <td><div>by Xiaodan (Sally) Zhang</div></td>
+
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>html_document</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>fig_height</th>
+
+  <th>fig_width</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>9</div></td>
+
+  <td><div>9</div></td>
+  </tr>
+  </tbody>
+</table></div></td>
+  </tr>
+  </tbody>
+</table></div></td>
+  </tr>
+  </tbody>
+</table>
 
 ## Introduction  
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it.  
