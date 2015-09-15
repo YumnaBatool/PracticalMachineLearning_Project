@@ -1,4 +1,4 @@
-Practical Machine Learning Project - Quantified Self Data Analysis  
+﻿Practical Machine Learning Project - Quantified Self Data Analysis  
 ==================================================================
 
 ### Assignment  
@@ -15,4 +15,4 @@ The goal of your project is to predict the manner in which they did the exercise
 
 Link to the page: [click here](http://xiaodan.github.io/Coursera-PML-Quantified-Self-Project/report.html)
 
-© Xiaodan Zhang 2015 All Rights reserved.
+.
